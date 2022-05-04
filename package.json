@@ -21,6 +21,8 @@
     },
     "dependencies": {
         "vue": "^3.2.31",
+        "vue-router": "^4.0.15",
+        "vuex": "^4.0.2",
         "webpack": "^5.72.0"
     }
 }
